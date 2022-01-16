@@ -1,330 +1,332 @@
 book-ot-1:
 - position: 1
 - name: Genesis
-- abbrev: 1Mo
+- abbreviation: 1Mo
 
 book-ot-2:
 - position: 2
 - name: Exodus
-- abbrev:  2Mo
+- abbreviation:  2Mo
 
 book-ot-3:
 - position: 3
 - name: Leviticus
-- abbrev:  3Mo
+- abbreviation:  3Mo
 
 book-ot-4:
 - position: 4
 - name: Numbers
-- abbrev:  4Mo
+- abbreviation:  4Mo
 
 book-ot-5:
 - position: 5
 - name: Deuteronomy
-- abbrev:  5Mo
+- abbreviation:  5Mo
 
 book-ot-6:
 - position: 6
 - name: Joshua
-- abbrev:  Jo
+- abbreviation:  Jo
 
 book-ot-7:
 - position: 7
 - name: Judges
-- abbrev:  Ju
+- abbreviation:  Ju
 
 book-ot-8:
 - position: 8
 - name: Ruth
-- abbrev:  Ru
+- abbreviation:  Ru
 
 book-ot-9:
 - position: 9
 - name: 1 Samuel
-- abbrev:  1Sa
+- abbreviation:  1Sa
 
 book-ot-10:
 - position: 10
 - name: 2 Samuel
-- abbrev:  2Sa
+- abbreviation:  2Sa
 
 book-ot-11:
 - position: 11
 - name: 1 Kings
-- abbrev:  1Ki
+- abbreviation:  1Ki
 
 book-ot-12:
 - position: 12
 - name: 2 Kings
-- abbrev:  2Ki
+- abbreviation:  2Ki
 
 book-ot-13:
 - position: 13
 - name: 1 Chronicles
-- abbrev:  1Chr
+- abbreviation:  1Chr
 
 book-ot-14:
 - position: 14
 - name: 2 Chronicles
-- abbrev:  2Chr
+- abbreviation:  2Chr
 
 book-ot-15:
 - position: 15
 - name: Ezra
-- abbrev:  Ez
+- abbreviation:  Ez
 
 book-ot-16:
 - position: 16
 - name: Nehemiah
-- abbrev:  Ne
+- abbreviation:  Ne
 
 book-ot-17:
 - position: 17
 - name: Esther
-- abbrev:  Est
+- abbreviation:  Est
 
-book-ot-18
+book-ot-18:
+- position: 18
 - name: Job
-- abbrev:  Job
+- abbreviation:  Job
 
 book-ot-19:
 - position: 19
 - name: Psalms
-- abbrev:  Ps
+- abbreviation:  Ps
 
 book-ot-20:
 - position: 20
 - name: Proverbs
-- abbrev:  Prov
+- abbreviation:  Prov
 
 book-ot-21:
 - position: 21
 - name: Ecclesiastes
-- abbrev:  Ecm
+- abbreviation:  Ecm
 
 book-ot-22:
 - position: 22
 - name: Song of Solomon
-- abbrev:  Song
+- abbreviation:  Song
 
 book-ot-23:
 - position: 23
 - name: Isaiah
-- abbrev:  Isa
+- abbreviation:  Isa
 
 book-ot-24:
 - position: 24
 - name: Jeremiah
-- abbrev:  Jer
+- abbreviation:  Jer
 
 book-ot-25:
 - position: 25
 - name: Lamentations
-- abbrev:  Lam
+- abbreviation:  Lam
 
 book-ot-26:
 - position: 26
 - name: Ezekiel
-- abbrev:  Ez
+- abbreviation:  Ez
 
 book-ot-27:
 - position: 27
 - name: Daniel
-- abbrev:  Dan
+- abbreviation:  Dan
 
-book-ot-28
+book-ot-28:
+- position: 28
 - name: Hosea
-- abbrev:  Hos
+- abbreviation:  Hos
 
 book-ot-29:
 - position: 29
 - name: Joel
-- abbrev:  Jo
+- abbreviation:  Jo
 
 book-ot-30:
 - position: 30
 - name: Amos
-- abbrev:  Am
+- abbreviation:  Am
 
 book-ot-31:
 - position: 31
 - name: Obadiah
-- abbrev:  Ob
+- abbreviation:  Ob
 
 book-ot-32:
 - position: 32
 - name: Jonah
-- abbrev:  Jon
+- abbreviation:  Jon
 
 book-ot-33:
 - position: 33
 - name: Micah
-- abbrev:  Mich
+- abbreviation:  Mich
 
 book-ot-34:
 - position: 34
 - name: Nahum
-- abbrev:  Nah
+- abbreviation:  Nah
 
 book-ot-35:
 - position: 35
 - name: Habakkuk
-- abbrev:  Hab
+- abbreviation:  Hab
 
 book-ot-36:
 - position: 36
 - name: Zephaniah
-- abbrev:  Zep
+- abbreviation:  Zep
 
 book-ot-37:
 - position: 37
 - name: Haggai
-- abbrev:  Hag
+- abbreviation:  Hag
 
 book-ot-38:
 - position: 38
 - name: Zechariah
-- abbrev:  Zech
+- abbreviation:  Zech
 
 book-ot-39:
 - position: 39
 - name: Malachi
-- abbrev:  Mal
+- abbreviation:  Mal
 
 book-nt-40:
 - position: 40
 - name: Matthew
-- abbrev:  Mt
+- abbreviation:  Mt
 
 book-nt-41:
 - position: 41
 - name: Mark
-- abbrev:  Mk
+- abbreviation:  Mk
 
 book-nt-42:
 - position: 42
 - name: Luke
-- abbrev:  Lk
+- abbreviation:  Lk
 
 book-nt-43:
 - position: 43
 - name: John
-- abbrev:  Jn
+- abbreviation:  Jn
 
 book-nt-44:
 - position: 44
 - name: Acts
-- abbrev:  Ac
+- abbreviation:  Ac
 
 book-nt-45:
 - position: 45
 - name: Romans
-- abbrev:  Rom
+- abbreviation:  Rom
 
 book-nt-46:
 - position: 46
 - name: 1 Corinthians
-- abbrev:  1Co
+- abbreviation:  1Co
 
 book-nt-47:
 - position: 47
 - name: 2 Corinthians
-- abbrev:  2Co
+- abbreviation:  2Co
 
 book-nt-48:
 - position: 48
 - name: Galatians
-- abbrev:  Gal
+- abbreviation:  Gal
 
 book-nt-49:
 - position: 49
 - name: Ephesians
-- abbrev:  Eph
+- abbreviation:  Eph
 
 book-nt-50:
 - position: 50
 - name: Philippians
-- abbrev:  Phil
+- abbreviation:  Phil
 
 book-nt-51:
 - position: 51
 - name: Colossians
-- abbrev:  Col
+- abbreviation:  Col
 
 book-nt-52:
 - position: 52
 - name: 1 Thessalonians
-- abbrev:  1Th
+- abbreviation:  1Th
 
 book-nt-53:
 - position: 53
 - name: 2 Thessalonians
-- abbrev:  2Th
+- abbreviation:  2Th
 
 book-nt-54:
 - position: 54
 - name: 1 Timothy
-- abbrev:  1Ti
+- abbreviation:  1Ti
 
 book-nt-55:
 - position: 55
 - name: 2 Timothy
-- abbrev:  2Ti
+- abbreviation:  2Ti
 
 book-nt-56:
 - position: 56
 - name: Titus
-- abbrev:  Tit
+- abbreviation:  Tit
 
 book-nt-57:
 - position: 57
 - name: Philemon
-- abbrev:  Phil
+- abbreviation:  Phil
 
 book-nt-58:
 - position: 58
 - name: Hebrews
-- abbrev:  Heb
+- abbreviation:  Heb
 
 book-nt-59:
 - position: 59
 - name: James
-- abbrev:  Jam
+- abbreviation:  Jam
 
 book-nt-60:
 - position: 60
 - name: 1 Peter
-- abbrev:  1Pe
+- abbreviation:  1Pe
 
 book-nt-61:
 - position: 61
 - name: 2 Peter
-- abbrev:  2Pe
+- abbreviation:  2Pe
 
 book-nt-62:
 - position: 62
 - name: 1 John
-- abbrev:  1Jn
+- abbreviation:  1Jn
 
 book-nt-63:
 - position: 63
 - name: 2 John
-- abbrev:  2Jn
+- abbreviation:  2Jn
 
 book-nt-64:
 - position: 64
 - name: 3 John
-- abbrev:  3Jn
+- abbreviation:  3Jn
 
 book-nt-65:
 - position: 65
 - name: Jude
-- abbrev:  Jud
+- abbreviation:  Jud
 
 book-nt-66:
 - position: 66
 - name: Revelation
-- abbrev: Rev
+- abbreviation: Rev
 
 
 ## Apocrypha
@@ -332,94 +334,94 @@ book-nt-66:
 book-xt-apo-100:
 - position: 100
 - name: Tobit
-- abbrev:  Tob
+- abbreviation:  Tob
 
 book-xt-apo-101:
 - position: 101
 - name: Judith
-- abbrev:  Jth
+- abbreviation:  Jth
 
 book-xt-apo-102:
 - position: 102
 - name: Wisdom of Solomon
-- abbrev:  Wis
+- abbreviation:  Wis
 
 book-xt-apo-103:
 - position: 103
 - name: Sirach
-- abbrev:  Sir
+- abbreviation:  Sir
 
 book-xt-apo-104:
 - position: 104
 - name: Ecclesiasticus
-- abbrev:  Ecc
+- abbreviation:  Ecc
 
 book-xt-apo-105:
 - position: 105
 - name: Baruch
-- abbrev:  Bar
+- abbreviation:  Bar
 
 book-xt-apo-106:
 - position: 106
 - name: Letter of Jeremiah
-- abbrev:  1Jer
+- abbreviation:  1Jer
 
 book-xt-apo-107:
 - position: 107
 - name: Song of Three Youths
-- abbrev:  SgY
+- abbreviation:  SgY
 
 book-xt-apo-108:
 - position: 108
 - name: Susanna
-- abbrev:  Sus
+- abbreviation:  Sus
 
 book-xt-apo-109:
 - position: 109
 - name: Bel and the Dragon
-- abbrev:  Bel
+- abbreviation:  Bel
 
 book-xt-apo-110:
 - position: 110
 - name: 1 Maccabees
-- abbrev:  1Mac
+- abbreviation:  1Mac
 
 book-xt-apo-111:
 - position: 111
 - name: 2 Maccabees
-- abbrev:  2Mac
+- abbreviation:  2Mac
 
 book-xt-apo-112:
 - position: 112
 - name: 3 Maccabees
-- abbrev:  3Mac
+- abbreviation:  3Mac
 
 book-xt-apo-113:
 - position: 113
 - name: 4 Maccabees
-- abbrev:  4Mac
+- abbreviation:  4Mac
 
 book-xt-apo-114:
 - position: 114
 - name: 1 Esdras
-- abbrev:  1Esd
-- 
+- abbreviation:  1Esd
+
 book-xt-apo-115:
 - position: 115
 - name: 2 Esdras
-- abbrev:  2Esd
+- abbreviation:  2Esd
 
 book-xt-apo-116:
 - position: 116
 - name: Prayer of Manasseh
-- abbrev:  Man
+- abbreviation:  Man
 
 book-xt-apo-117:
 - position: 117
 - name: Ode
-- abbrev: Ode
+- abbreviation: Ode
 
 book-ct-apo-118:
 - position: 118
 - name: Epistle to the Laodiceans
-- abbrev:  Lao
+- abbreviation:  Lao
